@@ -1,3 +1,8 @@
+# Thành viên
+- Trần Hồng Quân
+- Trương Tấn Thành
+- Lê Bá Trường
+
 # BoomanFX
 Project game OOP
 
