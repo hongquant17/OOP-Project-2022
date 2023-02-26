@@ -1,7 +1,7 @@
 # Thành viên
-- Trần Hồng Quân
-- Trương Tấn Thành
-- Lê Bá Trường
+- Trần Hồng Quân - 21020555
+- Trương Tấn Thành - 21020095
+- Lê Bá Trường - 21020416
 
 # BoomanFX
 Project game OOP
